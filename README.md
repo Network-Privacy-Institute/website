@@ -4,46 +4,31 @@
 
 # Network Privacy Institute
 
-Network Privacy Institute (NPI) is an independent initiative dedicated to supporting privacy-preserving internet infrastructure, digital rights, and online anonymity.
+Supporting privacy-preserving internet infrastructure.
 
 ## Mission
 
-We believe that privacy is a fundamental requirement for a free and open society.
+Network Privacy Institute (NPI) is an independent initiative dedicated to strengthening privacy, anonymity, and digital rights through public-interest technology.
 
-Our mission is to strengthen public-interest internet infrastructure that enables secure communication, anonymity, and freedom of expression online.
+## Current Project
 
-## Current Focus
+Our first objective is to fund and operate Tor relays that contribute bandwidth and resilience to the Tor network.
 
-Our first project is operating and maintaining Tor relays to support the Tor network.
+## Goals
 
-Current goals:
-
-- Launch our first Tor relay
+- Launch the first Tor relay
 - Expand to 3 relays
 - Publish transparency reports
 - Build sustainable community funding
 
-## Transparency
-
-We are committed to openness regarding:
-
-- Infrastructure operated
-- Operational costs
-- Funding received
-- Organizational governance
-
 ## Support
 
-If you would like to support our work, please visit:
+Donations will be available through Ko-fi.
 
-[Ko-fi link coming soon]
+## Transparency
 
-## Contact
-
-Website: https://networkprivacyinstitute.org
-
-Contact: contact@networkprivacyinstitute.org
+Infrastructure status, operating costs, and funding reports will be published publicly.
 
 ## License
 
-MIT License
+MIT
